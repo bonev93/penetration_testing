@@ -163,15 +163,23 @@ get a set of @unibit.bg mails
 
 1. fire up kali linux and msfconsole
 
+<img width="892" alt="Screen Shot 2022-01-20 at 0 43 07" src="https://user-images.githubusercontent.com/18306338/150230961-f1fc52b4-a9d5-4cda-9fa8-5fc7c08d25da.png">
+
 2. search email gather
 
-3. use the auxiliary
+<img width="813" alt="Screen Shot 2022-01-20 at 0 45 00" src="https://user-images.githubusercontent.com/18306338/150231026-4e92fe3a-f411-4b24-83ef-90ad361ffa88.png">
 
-4. query available options
+3. use the auxiliary and query available options
+4. 
+<img width="574" alt="Screen Shot 2022-01-20 at 0 50 34" src="https://user-images.githubusercontent.com/18306338/150231193-3aa2e363-d38a-425d-b250-1b4172f1bd35.png">
 
-5. set DOMAIN unibit.bg and output file
+4. set domain as unibit.bg and output file as mails.txt
+
+<img width="524" alt="Screen Shot 2022-01-20 at 0 50 54" src="https://user-images.githubusercontent.com/18306338/150231204-bed205be-61f8-4c97-83b9-8045a426d29e.png">
 
 6. run (won't be uploading the txt file as this repo will be public)
+
+<img width="524" alt="Screen Shot 2022-01-20 at 0 50 54" src="https://user-images.githubusercontent.com/18306338/150231677-952adb81-be4b-4dda-a9b2-3e7f3010edf3.png">
 
 ================================
 
