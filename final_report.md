@@ -160,9 +160,11 @@ at www.register.bg.
 
 ## Check robots.txt and sitemap.xml for ULSIT and DVWA
 
-unibit robots.txt 
+1.unibit robots.txt 
+
 <img width="670" alt="unibit_robot" src="https://user-images.githubusercontent.com/18306338/150217478-ac38b8e2-d6b5-495d-b9ea-5bfe4a0dc15a.png">
 
-unibit sitemap.xml
+2.unibit sitemap.xml
+
 <img width="975" alt="unibit_sitemap" src="https://user-images.githubusercontent.com/18306338/150217770-304bf069-74c4-4203-a11b-413183cec22c.png">
 
