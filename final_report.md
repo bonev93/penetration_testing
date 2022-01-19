@@ -169,8 +169,8 @@ get a set of @unibit.bg mails
 
 <img width="813" alt="Screen Shot 2022-01-20 at 0 45 00" src="https://user-images.githubusercontent.com/18306338/150231026-4e92fe3a-f411-4b24-83ef-90ad361ffa88.png">
 
-3. use the auxiliary and query available options
-4. 
+3. use the auxiliary/gather/search_email_collector and query available options
+
 <img width="574" alt="Screen Shot 2022-01-20 at 0 50 34" src="https://user-images.githubusercontent.com/18306338/150231193-3aa2e363-d38a-425d-b250-1b4172f1bd35.png">
 
 4. set domain as unibit.bg and output file as mails.txt
@@ -179,7 +179,6 @@ get a set of @unibit.bg mails
 
 6. run (won't be uploading the txt file as this repo will be public)
 
-<img width="524" alt="Screen Shot 2022-01-20 at 0 50 54" src="https://user-images.githubusercontent.com/18306338/150231677-952adb81-be4b-4dda-a9b2-3e7f3010edf3.png">
 
 ================================
 
