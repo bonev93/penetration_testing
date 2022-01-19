@@ -24,7 +24,9 @@ traceroute to unibit.bg (194.141.8.30), 64 hops max, 52 byte packets
 2. google.de
 
 ```
-traceroute google.de
+command: traceroute google.de
+
+output:
 traceroute to google.de (172.217.169.99), 64 hops max, 52 byte packets
  1  192.168.0.1 (192.168.0.1)  3.822 ms  1.891 ms  2.050 ms
  2  dsldevice.lan (192.168.1.1)  3.637 ms  2.673 ms  3.818 ms
