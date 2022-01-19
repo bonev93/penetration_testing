@@ -181,7 +181,6 @@ get a set of @unibit.bg mails
 
 <img width="616" alt="Screen Shot 2022-01-20 at 0 52 32" src="https://user-images.githubusercontent.com/18306338/150232134-8b4be7ca-36ad-4b1e-a8e3-06de3ba03290.png">
 
-
 ================================
 
 # WEBENUMERATION TASKS
@@ -231,3 +230,25 @@ Extra Mile: Look for CVE-2009-1358
 What software does it affect?
 What is the CVSS score of the vulnerability?
 What protocol is being exploited?
+
+# Vulnerability research:
+
+## Look for the EternalBlue vulnerability
+
+    What is the CVE number of this vulnerability?
+    What software does it affect?
+    What is the CVSS score of the vulnerability?
+    What protocol is being exploited?
+
+## Look for DirtyCow vulnerability
+
+    What is the CVE number of this vulnerability?
+    What software does it affect?
+    What is the CVSS score of the vulnerability?
+    What is the vulnerability type?
+
+## Extra Mile: Look for CVE-2009-1358
+
+    What software does it affect?
+    What is the CVSS score of the vulnerability?
+    What protocol is being exploited?
