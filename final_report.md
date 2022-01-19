@@ -177,8 +177,9 @@ get a set of @unibit.bg mails
 
 <img width="524" alt="Screen Shot 2022-01-20 at 0 50 54" src="https://user-images.githubusercontent.com/18306338/150231204-bed205be-61f8-4c97-83b9-8045a426d29e.png">
 
-6. run (won't be uploading the txt file as this repo will be public)
+5. run (won't be uploading the txt file as this repo will be public)
 
+<img width="524" alt="Screen Shot 2022-01-20 at 0 50 54" src="https://user-images.githubusercontent.com/18306338/150231974-4c6a1d80-bc6e-4c2c-8bc1-fa08a1673573.png">
 
 ================================
 
