@@ -173,4 +173,10 @@ at www.register.bg.
 
 3. dvwa robots.txt
 
+<img width="591" alt="dvwa_robots" src="https://user-images.githubusercontent.com/18306338/150219483-feb49ded-4947-4991-b43f-cc6e3aaa0404.png">
+
 4. dvwa sitemap.xml
+
+<img width="713" alt="dvwa_sitemap" src="https://user-images.githubusercontent.com/18306338/150219884-bcbfb2ad-f42a-4923-ae2c-90099887d465.png">
+
+
