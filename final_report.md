@@ -56,6 +56,7 @@ Non-authoritative answer:
 Name: unibit.bg
 Address: 194.141.8.30
 ```
+
 ==================================
 
 ```
@@ -79,6 +80,7 @@ unibit.bg. 85779 IN A 194.141.8.30
 ;; WHEN: Wed Jan 19 23:23:04 EET 2022
 ;; MSG SIZE rcvd: 43
 ```
+
 ================================
 WHOIS Lookup for ULSIT(UniBit)
 
@@ -154,17 +156,21 @@ If you would like to contact the persons responsible for the domain
 name, please, use the online WHOIS contact form from the "Info / Whois" menu
 at www.register.bg.
 ```
+
 ================================
 
 # WebEnumeration tasks
 
 ## Check robots.txt and sitemap.xml for ULSIT and DVWA
 
-1.unibit robots.txt 
+1. unibit robots.txt
 
 <img width="670" alt="unibit_robot" src="https://user-images.githubusercontent.com/18306338/150217478-ac38b8e2-d6b5-495d-b9ea-5bfe4a0dc15a.png">
 
-2.unibit sitemap.xml
+2. unibit sitemap.xml
 
 <img width="975" alt="unibit_sitemap" src="https://user-images.githubusercontent.com/18306338/150217770-304bf069-74c4-4203-a11b-413183cec22c.png">
 
+3. dvwa robots.txt
+
+4. dvwa sitemap.xml
