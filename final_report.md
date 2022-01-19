@@ -157,9 +157,25 @@ name, please, use the online WHOIS contact form from the "Info / Whois" menu
 at www.register.bg.
 ```
 
+extra mile I added in this section for practice purposes (thanks to Pavel's first lecture)
+
+get a set of @unibit.bg mails
+
+1. fire up kali linux and msfconsole
+
+2. search email gather
+
+3. use the auxiliary
+
+4. query available options
+
+5. set DOMAIN unibit.bg and output file
+
+6. run (won't be uploading the txt file as this repo will be public)
+
 ================================
 
-# WebEnumeration tasks
+# WEBENUMERATION TASKS
 
 ## Check robots.txt and sitemap.xml for ULSIT and DVWA
 
@@ -179,4 +195,30 @@ at www.register.bg.
 
 <img width="713" alt="dvwa_sitemap" src="https://user-images.githubusercontent.com/18306338/150219884-bcbfb2ad-f42a-4923-ae2c-90099887d465.png">
 
+## Use ffuf or gobuster to enumerate DVWA’s pages
 
+## Find DVWA’s source code
+
+# Burp&Zap tasks
+
+Not included in report: Configure FoxyProxy for Burp and ZAP
+NOTE: Make sure you use the correct ports
+Not included in report: Play around with Burp’s repeater
+Try using ZAP’s automated scanner against DVWA (screenshot)
+Extra Mile: Try using ZAP’s automated scan while authenticated against DVWA (methodology and screenshot)
+
+Vulnerability research:
+Look for the EternalBlue vulnerability
+What is the CVE number of this vulnerability?
+What software does it affect?
+What is the CVSS score of the vulnerability?
+What protocol is being exploited?
+Look for DirtyCow vulnerability
+What is the CVE number of this vulnerability?
+What software does it affect?
+What is the CVSS score of the vulnerability?
+What is the vulnerability type?
+Extra Mile: Look for CVE-2009-1358
+What software does it affect?
+What is the CVSS score of the vulnerability?
+What protocol is being exploited?
