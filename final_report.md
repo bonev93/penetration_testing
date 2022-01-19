@@ -45,6 +45,7 @@ traceroute to google.de (172.217.169.99), 64 hops max, 52 byte packets
 
 ## DNS Lookup for ULSIT(UniBit)
 
+```
 command: nslookup unibit.bg
 
 output:
@@ -54,7 +55,10 @@ Address: 192.168.0.1#53
 Non-authoritative answer:
 Name: unibit.bg
 Address: 194.141.8.30
+```
 ==================================
+
+```
 command: dig unibit.bg
 
 output:
@@ -74,10 +78,11 @@ unibit.bg. 85779 IN A 194.141.8.30
 ;; SERVER: 192.168.0.1#53(192.168.0.1)
 ;; WHEN: Wed Jan 19 23:23:04 EET 2022
 ;; MSG SIZE rcvd: 43
-
+```
 ================================
 WHOIS Lookup for ULSIT(UniBit)
 
+```
 command: whois unibit.bg
 
 output:
@@ -148,7 +153,7 @@ OF THE COUNCIL (GDPR) personal data is not published.
 If you would like to contact the persons responsible for the domain
 name, please, use the online WHOIS contact form from the "Info / Whois" menu
 at www.register.bg.
-
+```
 ================================
 
 # WebEnumeration tasks
